@@ -1,2 +1,2 @@
 # Colors
-My color theme for all the things
+My themes and color palettes for all the things.
